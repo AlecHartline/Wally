@@ -1,3 +1,3 @@
 How to use
 
-When running the program, pass the path to the program into String[] args
+Run the Main class file, while passing the path of the program you want to execute into String[] args
